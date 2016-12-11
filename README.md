@@ -1,0 +1,1 @@
+# ccnubox_management_static
